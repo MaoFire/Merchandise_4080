@@ -1,6 +1,6 @@
 商品名稱：GIGABYTE 技嘉 GeForce RTX 4080 SUPER WINDFORCE V2 16G 顯示卡
 
-評價：4.6
+評價：4.8
 
 售價：36490
 
