@@ -9,7 +9,7 @@ CUDA® Cores: 10240
 記憶體介面: 256 bit
 匯流排: PCI-E 4.0 x 16
 最大數位解析度: 7680x4320
-多螢幕支援: 4
+多螢幕支援: 3
 尺寸: L=330 W=136 H=58 mm
 PCB 規格: ATX
 DirectX 支援: 12 Ultimate
